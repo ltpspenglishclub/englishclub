@@ -1,6 +1,6 @@
-body{margin:auto;padding:auto;}
+body{margin:auto;padding:auto;background-image:url("img/ipnet.jpeg");}
 p{text-align:center;
-background-image:url("img/ipnet.jpeg");
+
 }
 header{
 background-color:blue;}
